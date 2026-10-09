@@ -33,4 +33,4 @@ The refactored model separates numerical facts from descriptive dimensions, esta
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/visual_page.png)
